@@ -18,7 +18,7 @@
     "chai": "^4.1.2",
     "mocha": "^4.0.1",
     "nan": "^2.7.0",
-    "napi": "0.0.0",
+    "@redant/napi": "0.0.1",
     "node-addon-api": "^1.0.0",
     "node-gyp": "3.6.2"
   },
